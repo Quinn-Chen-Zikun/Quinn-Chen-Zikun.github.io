@@ -1,0 +1,22 @@
+type = "about"
+title = "关于我"
+
+[profile]
+research_interests = [
+  "AI 安全",
+  "智能体 AI",
+  "AI 对齐",
+  "自主智能体风险"
+]
+
+[[sections]]
+id = "about"
+type = "markdown"
+source = "bio.md"
+title = "关于我"
+
+[[sections]]
+id = "news"
+type = "list"
+title = "动态"
+source = "news.toml"

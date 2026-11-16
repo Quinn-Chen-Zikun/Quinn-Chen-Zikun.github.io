@@ -1,0 +1,22 @@
+type = "about"
+title = "About"
+
+[profile]
+research_interests = [
+  "AI Safety",
+  "Agentic AI",
+  "AI Alignment",
+  "Autonomous Agent Risk"
+]
+
+[[sections]]
+id = "about"
+type = "markdown"
+source = "bio.md"
+title = "About"
+
+[[sections]]
+id = "news"
+type = "list"
+title = "News"
+source = "news.toml"
