@@ -1,5 +1,10 @@
 @import "tailwindcss";
 
+/* Slightly larger base font for readability */
+html {
+  font-size: 17px;
+}
+
 /* Explicitly set dark mode to use class strategy */
 @variant dark (&:where(.dark, .dark *));
 
