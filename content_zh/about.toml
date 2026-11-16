@@ -4,9 +4,7 @@ title = "关于我"
 [profile]
 research_interests = [
   "AI 安全",
-  "智能体 AI",
-  "AI 对齐",
-  "自主智能体风险"
+  "智能体 AI"
 ]
 
 [[sections]]

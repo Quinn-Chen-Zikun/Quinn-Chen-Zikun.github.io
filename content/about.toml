@@ -4,9 +4,7 @@ title = "About"
 [profile]
 research_interests = [
   "AI Safety",
-  "Agentic AI",
-  "AI Alignment",
-  "Autonomous Agent Risk"
+  "Agentic AI"
 ]
 
 [[sections]]
